@@ -1,4 +1,4 @@
-# ClorophetMap
+# Cloropeth map
 
 Choropleth map for mexican population.
 
