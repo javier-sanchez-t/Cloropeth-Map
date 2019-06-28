@@ -7,7 +7,9 @@ Choropleth map for mexican population.
 You will be able to see a mexican map with states in different colors, the color depends of the population. You can choose one of them and see more information about it.
 
 Open the app here:
-https://jefe10jav.github.io/Clorophet-Map/
+https://jefe10jav.github.io/Cloropeth-Map/
+
+![Cloropeth-Map](/src/assets/img/app.png)
 
 ## Technologies
 
