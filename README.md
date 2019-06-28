@@ -9,8 +9,6 @@ You will be able to see a mexican map with states in different colors, the color
 Open the app here:
 https://jefe10jav.github.io/Cloropeth-Map/
 
-![Cloropeth-Map](/src/assets/img/app.png)
-
 ## Technologies
 
 - Angular 5
@@ -19,4 +17,8 @@ https://jefe10jav.github.io/Cloropeth-Map/
 ## Type
 
 Web application
+
+## Screenshot
+
+![Cloropeth-Map](/src/assets/img/app.png)
 
