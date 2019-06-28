@@ -2,7 +2,7 @@
 
 Choropleth map for mexican population.
 
-### How does it work?
+###How does it work?
 
 You will be able to see a mexican map with states in different colors, the color depends of the population. You can choose one of them and see more information about it.
 
